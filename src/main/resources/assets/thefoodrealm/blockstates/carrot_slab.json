@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=top": {
+      "model": "thefoodrealm:block/carrot_slab_top"
+    },
+    "type=bottom": {
+      "model": "thefoodrealm:block/carrot_slab"
+    },
+    "type=double": {
+      "model": "thefoodrealm:block/carrot_block"
+    }
+  }
+}

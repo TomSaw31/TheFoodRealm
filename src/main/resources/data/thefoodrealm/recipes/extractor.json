@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " IM",
+    "CCM",
+    "C M"
+  ],
+  "key": {
+    "M": {
+      "item": "thefoodrealm:mint_tree_log"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "thefoodrealm:extractor"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Salt Entry",
+  "icon": "thefoodrealm:salt",
+  "category": "thefoodrealm:cooking_pot_category",
+  "advancement": "thefoodrealm:cooking_pot",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "thefoodrealm:salt",
+      "title": "Salt",
+      "text": "This salt is essential to cook many dishes."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["thefoodrealm:textures/gui/patchouli/salt.png"],
+      "title": "Salt"
+    }
+  ]
+}

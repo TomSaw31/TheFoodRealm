@@ -1,0 +1,19 @@
+{
+  "name": "Caramel Ingot Entry",
+  "icon": "thefoodrealm:caramel_ingot",
+  "category": "thefoodrealm:cooking_pot_category",
+  "advancement": "thefoodrealm:cooking_pot",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "thefoodrealm:caramel_ingot",
+      "title": "Caramel Ingot",
+      "text": "Caramel can be used to create efficient but fragile tools or can be used to create candies."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["thefoodrealm:textures/gui/patchouli/caramel_ingot.png"],
+      "title": "Caramel Ingot"
+    }
+  ]
+}

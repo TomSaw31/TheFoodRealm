@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "thefoodrealm:block/mint_tree_sapling"
+  }
+}

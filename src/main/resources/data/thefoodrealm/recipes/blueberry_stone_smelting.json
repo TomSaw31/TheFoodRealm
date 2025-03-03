@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "thefoodrealm:blueberry_cobblestone"
+  },
+  "result": "thefoodrealm:blueberry_stone"
+}

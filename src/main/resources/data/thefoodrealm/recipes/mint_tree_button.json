@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "thefoodrealm:mint_tree_planks"
+    }
+  ],
+  "result": {
+    "item": "thefoodrealm:mint_tree_button"
+  }
+}

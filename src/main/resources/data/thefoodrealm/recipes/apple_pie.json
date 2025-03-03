@@ -1,0 +1,24 @@
+{
+  "type": "thefoodrealm:cooking_pot",
+  "size": 5,
+  "ingredients": [
+    {
+      "item": "minecraft:apple"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "thefoodrealm:vanilla"
+    },
+    {
+      "item": "thefoodrealm:butter"
+    }
+  ],
+  "output": {
+    "item": "thefoodrealm:apple_pie"
+  }
+}

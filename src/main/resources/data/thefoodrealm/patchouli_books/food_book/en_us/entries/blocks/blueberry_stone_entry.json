@@ -1,0 +1,16 @@
+{
+  "name": "Blueberry Stone Entry",
+  "icon": "thefoodrealm:blueberry_stone",
+  "category": "thefoodrealm:block_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Blueberry stone can be found underground or can be created with stone and blueberries. It can be used like stone or as decoration."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:blueberry_stone",
+      "recipe2": "thefoodrealm:blueberry_stone_bricks"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "thefoodrealm:cooking_pot",
+  "size": 5,
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "minecraft:rabbit"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "minecraft:baked_potato"
+    }
+  ],
+  "output": {
+    "item": "minecraft:rabbit_stew"
+  }
+}

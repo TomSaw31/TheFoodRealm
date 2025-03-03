@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "G G",
+    "G G"
+  ],
+  "key": {
+    "G": {
+      "item": "thefoodrealm:ghost_pepper_ingot"
+    }
+  },
+  "result": {
+    "item": "thefoodrealm:ghost_pepper_leggings"
+  }
+}

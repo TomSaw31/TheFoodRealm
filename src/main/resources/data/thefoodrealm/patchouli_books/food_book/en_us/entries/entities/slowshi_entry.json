@@ -1,0 +1,17 @@
+{
+  "name": "Slushy Entry",
+  "icon": "thefoodrealm:slowshi_spawn_egg",
+  "category": "thefoodrealm:creature_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "This big slug crawls in the grass to find food. Its composition of rice makes it very vulnerable to attack. They are very lazy and very slow allowing to be hunted easily."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "thefoodrealm:slowshi",
+      "scale": 0.7,
+      "name": "Slushy"
+      }
+  ]
+}

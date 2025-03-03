@@ -1,0 +1,18 @@
+{
+  "name": "Fork Entry",
+  "icon": "thefoodrealm:fork",
+  "category": "thefoodrealm:tool_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "thefoodrealm:fork",
+      "title": "Fork",
+      "link_recipe": true,
+      "text": "The fork is a useful tool that allows you to eat different blocks made of food."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:fork"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=top": {
+      "model": "thefoodrealm:block/mint_tree_slab_top"
+    },
+    "type=bottom": {
+      "model": "thefoodrealm:block/mint_tree_slab"
+    },
+    "type=double": {
+      "model": "thefoodrealm:block/mint_tree_block"
+    }
+  }
+}

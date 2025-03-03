@@ -1,0 +1,17 @@
+{
+  "name": "Cuptoise Entry",
+  "icon": "thefoodrealm:cuptoise_spawn_egg",
+  "category": "thefoodrealm:creature_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "This little turtle roams the plains in search of berries. They use the color of the cupcake they use as their shell to recognize each other. They are friendly and are often seen playing with other members of their species."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "thefoodrealm:cuptoise",
+      "scale": 0.7,
+      "name": "Cuptoise"
+      }
+  ]
+}

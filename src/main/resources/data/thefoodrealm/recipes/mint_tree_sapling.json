@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BMB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:bone_meal"
+    },
+    "M": {
+      "item": "thefoodrealm:mint"
+    }
+  },
+  "result": {
+    "item": "thefoodrealm:mint_tree_sapling"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Armangillo Entry",
+  "icon": "thefoodrealm:armangillo_spawn_egg",
+  "category": "thefoodrealm:creature_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "This cute creature wanders in the plains. It uses mangoes as a shell to protect itself from predators attacks. Armangillos have vibrant colors to make mating easier during spring."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "thefoodrealm:armangillo",
+      "scale": 0.7,
+      "name": "Armangillo"
+      }
+  ]
+}

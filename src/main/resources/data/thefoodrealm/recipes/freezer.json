@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "TPI",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+      "T": {
+        "item": "minecraft:iron_trapdoor"
+      },
+    "P": {
+      "item": "minecraft:packed_ice"
+    }
+  },
+
+  "result": {
+    "item": "thefoodrealm:freezer"
+  }
+}

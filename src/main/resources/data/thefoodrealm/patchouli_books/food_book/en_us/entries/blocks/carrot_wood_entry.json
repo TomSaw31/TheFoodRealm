@@ -1,0 +1,36 @@
+{
+  "name": "Carrot Block Entry",
+  "icon": "thefoodrealm:carrot_block",
+  "category": "thefoodrealm:block_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Carrot Block can be used has wood because of its toughness. This wood from large carrots has a beautiful orange color and can be used to create wooden tools as well as decorations"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:carrot_block",
+      "recipe2": "thefoodrealm:carrot_planks"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:carrot_stairs",
+      "recipe2": "thefoodrealm:carrot_slab"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:carrot_fence_gate",
+      "recipe2": "thefoodrealm:carrot_fence"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:carrot_door",
+      "recipe2": "thefoodrealm:carrot_trapdoor"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:carrot_button",
+      "recipe2": "thefoodrealm:carrot_pressure_plate"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Caramel Armor Entry",
+  "icon": "thefoodrealm:caramel_chestplate",
+  "category": "thefoodrealm:armor_category",
+  "advancement": "thefoodrealm:caramel",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:caramel_helmet",
+      "recipe2": "thefoodrealm:caramel_chestplate"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:caramel_leggings",
+      "recipe2": "thefoodrealm:caramel_boots"
+    }
+  ]
+}

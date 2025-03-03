@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "thefoodrealm:block/lemon_charger" },
+    "facing=east": { "model": "thefoodrealm:block/lemon_charger", "y": 90 },
+    "facing=south": { "model": "thefoodrealm:block/lemon_charger", "y": 180 },
+    "facing=west": { "model": "thefoodrealm:block/lemon_charger", "y": 270 }
+  }
+}

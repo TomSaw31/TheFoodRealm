@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "side": "thefoodrealm:block/blueberry_stone",
+    "bottom": "thefoodrealm:block/blueberry_stone",
+    "top": "thefoodrealm:block/blueberry_stone"
+  }
+}

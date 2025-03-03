@@ -1,0 +1,11 @@
+{
+  "type": "thefoodrealm:freezer",
+  "ingredients": [
+    {
+      "item": "thefoodrealm:mint_tree_sap"
+    }
+  ],
+  "output": {
+    "item": "thefoodrealm:mint_tree_sap_block"
+  }
+}

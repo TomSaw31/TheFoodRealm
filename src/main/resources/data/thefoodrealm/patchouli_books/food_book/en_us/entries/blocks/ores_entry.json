@@ -1,0 +1,16 @@
+{
+  "name": "Ores Entry",
+  "icon": "thefoodrealm:caramel_ore",
+  "category": "thefoodrealm:block_category",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "thefoodrealm:fire_pepper_from_smelting_fire_pepper_ore",
+      "recipe2": "thefoodrealm:caramel_ingot_from_smelting_caramel_ore"
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "thefoodrealm:ghost_pepper_from_smelting_ghost_pepper_ore"
+    }
+  ]
+}

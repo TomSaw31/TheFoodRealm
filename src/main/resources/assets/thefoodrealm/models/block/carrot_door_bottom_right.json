@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/door_bottom_right",
+  "textures": {
+    "bottom": "thefoodrealm:block/carrot_door_bottom",
+    "top": "thefoodrealm:block/carrot_door_top"
+  },
+  "render_type": "cutout"
+}

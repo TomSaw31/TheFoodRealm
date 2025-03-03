@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "side": "thefoodrealm:block/blackberry_stone",
+    "bottom": "thefoodrealm:block/blackberry_stone",
+    "top": "thefoodrealm:block/blackberry_stone"
+  }
+}

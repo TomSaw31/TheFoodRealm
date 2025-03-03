@@ -1,0 +1,22 @@
+{
+  "name": "Ghost Pepper tools Entry",
+  "icon": "thefoodrealm:ghost_pepper_sword",
+  "category": "thefoodrealm:tool_category",
+  "advancement": "thefoodrealm:ghost_pepper",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:ghost_pepper_sword",
+      "recipe2": "thefoodrealm:ghost_pepper_pickaxe"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:ghost_pepper_axe",
+      "recipe2": "thefoodrealm:ghost_pepper_shovel"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:ghost_pepper_hoe"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DBD",
+    "D D"
+  ],
+  "key": {
+    "B": {
+      "item": "thefoodrealm:butter"
+    },
+    "D": {
+      "item": "thefoodrealm:dough"
+    }
+  },
+  "result": {
+    "item": "thefoodrealm:croissant",
+    "count": 4
+  }
+}

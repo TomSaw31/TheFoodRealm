@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "thefoodrealm:milk_jar"
+    },
+    {
+      "item": "thefoodrealm:salt"
+    }
+  ],
+  "result": {
+    "item": "thefoodrealm:butter"
+  }
+}

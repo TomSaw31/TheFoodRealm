@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CC ",
+    "CS ",
+    " S "
+  ],
+  "key": {
+    "C": {
+      "item": "thefoodrealm:dark_choco_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "thefoodrealm:dark_choco_axe"
+  }
+}

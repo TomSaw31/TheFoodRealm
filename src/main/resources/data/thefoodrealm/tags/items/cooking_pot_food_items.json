@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:sugar",
+    "minecraft:egg",
+    "minecraft:red_mushroom",
+    "minecraft:brown_mushroom",
+    "minecraft:stick",
+    "minecraft:bowl",
+    "minecraft:blue_ice",
+    "thefoodrealm:dough",
+    "thefoodrealm:salt",
+    "thefoodrealm:fire_pepper_powder",
+    "thefoodrealm:flour",
+    "thefoodrealm:butter",
+    "thefoodrealm:water_jar",
+    "thefoodrealm:milk_jar",
+    "thefoodrealm:mint",
+    "thefoodrealm:vanilla",
+    "thefoodrealm:caramel_ingot",
+    "thefoodrealm:choco_chips",
+  ]
+}

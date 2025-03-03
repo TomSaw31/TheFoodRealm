@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "thefoodrealm:lemon"
+    },
+    "title": "Lemon !",
+    "description": "When life gives you lemons...",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "thefoodrealm:fruit",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "thefoodrealm:lemon"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

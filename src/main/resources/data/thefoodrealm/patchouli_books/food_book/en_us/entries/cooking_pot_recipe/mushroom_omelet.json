@@ -1,0 +1,19 @@
+{
+  "name": "Mushroom Omelet Entry",
+  "icon": "thefoodrealm:mushroom_omelet",
+  "category": "thefoodrealm:cooking_pot_category",
+  "advancement": "thefoodrealm:cooking_pot",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "thefoodrealm:mushroom_omelet",
+      "title": "Mushroom Omelet",
+      "text": "A delicious omelet made with different mushrooms."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["thefoodrealm:textures/gui/patchouli/mushroom_omelet.png"],
+      "title": "Mushroom Omelet"
+    }
+  ]
+}

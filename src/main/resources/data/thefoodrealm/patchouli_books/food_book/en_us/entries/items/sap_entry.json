@@ -1,0 +1,20 @@
+{
+  "name": "Sap Entry",
+  "icon": "thefoodrealm:oak_sap",
+  "category": "thefoodrealm:item_category",
+  "advancement": "thefoodrealm:charged_lemon",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "thefoodrealm:oak_sap",
+      "title": "Sap",
+      "link_recipe": true,
+      "text": "Sap is used to create blocks that give different effects when walked on. You have to use an extractor with an empty bottle to collect the sap. Then, you have to mix packed ice with the sap to get the corresponding block."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:extractor",
+      "recipe2": "thefoodrealm:freezer"
+    }
+  ]
+}

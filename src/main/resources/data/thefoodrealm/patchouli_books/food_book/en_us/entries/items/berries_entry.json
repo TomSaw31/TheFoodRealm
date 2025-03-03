@@ -1,0 +1,19 @@
+{
+  "name": "Berries Entry",
+  "icon": "thefoodrealm:blueberries",
+  "category": "thefoodrealm:item_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "thefoodrealm:blackberries",
+      "title": "Berries",
+      "link_recipe": true,
+      "text": "Different berries can be fond through the food dimension like sweet berries, glow berries, blueberries, blackberries, raspberries or strawberries. Stone in this place is made of dried berries that are very hard. Berries can be harvested to be used as food."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:blueberry_stone",
+      "recipe2": "thefoodrealm:blackberry_stone"
+    }
+  ]
+}

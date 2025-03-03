@@ -1,0 +1,21 @@
+{
+  "name": "White Choco tools Entry",
+  "icon": "thefoodrealm:white_choco_sword",
+  "category": "thefoodrealm:tool_category",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:white_choco_sword",
+      "recipe2": "thefoodrealm:white_choco_pickaxe"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:white_choco_axe",
+      "recipe2": "thefoodrealm:white_choco_shovel"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:white_choco_hoe"
+    }
+  ]
+}

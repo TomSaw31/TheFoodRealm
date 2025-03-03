@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "thefoodrealm:block/ghost_pepper_block"
+  },
+  "render_type": "translucent"
+}

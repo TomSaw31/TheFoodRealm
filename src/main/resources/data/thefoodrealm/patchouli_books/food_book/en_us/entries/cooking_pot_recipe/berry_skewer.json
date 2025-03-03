@@ -1,0 +1,19 @@
+{
+  "name": "Berry Skewer Entry",
+  "icon": "thefoodrealm:berry_skewer",
+  "category": "thefoodrealm:cooking_pot_category",
+  "advancement": "thefoodrealm:cooking_pot",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "thefoodrealm:berry_skewer",
+      "title": "Berry Skewer",
+      "text": "A skewer with many berries. It gives the effects of the differents berries."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["thefoodrealm:textures/gui/patchouli/berry_skewer.png"],
+      "title": "Berry Skewer"
+    }
+  ]
+}

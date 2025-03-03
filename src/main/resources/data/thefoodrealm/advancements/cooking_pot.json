@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "thefoodrealm:cooking_pot"
+    },
+    "title": "The beginning of the Chef",
+    "description": "Create a cooking pot to cook like a chef",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "thefoodrealm:thefoodrealm",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "thefoodrealm:cooking_pot"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

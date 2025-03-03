@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "thefoodrealm:block/mint_tree_sap_block"
+  }
+}

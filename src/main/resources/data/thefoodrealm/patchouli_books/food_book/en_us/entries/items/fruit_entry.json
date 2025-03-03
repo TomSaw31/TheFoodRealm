@@ -1,0 +1,20 @@
+{
+  "name": "Fruit Entry",
+  "icon": "thefoodrealm:orange",
+  "category": "thefoodrealm:item_category",
+  "advancement": "thefoodrealm:fruit",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "thefoodrealm:orange",
+      "title": "Fruit",
+      "link_recipe": true,
+      "text": "Fruit can be found all over the Food Realm. They can be consumed or can be used for many recipes"
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["thefoodrealm:textures/gui/patchouli/fruit_entry.png"],
+      "title": "Fruit"
+    }
+  ]
+}

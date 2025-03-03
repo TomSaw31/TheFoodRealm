@@ -1,0 +1,11 @@
+{
+  "type": "thefoodrealm:freezer",
+  "ingredients": [
+    {
+      "item": "thefoodrealm:dark_oak_sap"
+    }
+  ],
+  "output": {
+    "item": "thefoodrealm:dark_oak_sap_block"
+  }
+}

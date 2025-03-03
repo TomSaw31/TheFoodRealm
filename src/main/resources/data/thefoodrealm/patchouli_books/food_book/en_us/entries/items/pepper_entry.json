@@ -1,0 +1,30 @@
+{
+  "name": "Pepper Entry",
+  "icon": "thefoodrealm:fire_pepper",
+  "category": "thefoodrealm:item_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "thefoodrealm:fire_pepper",
+      "title": "Fire Pepper",
+      "link_recipe": true,
+      "text": "The Fire Pepper can be found in caves. It produces intense heat and its powder can be used as fuel."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:fire_pepper_powder"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "thefoodrealm:ghost_pepper",
+      "title": "Ghost Pepper",
+      "link_recipe": true,
+      "text": "The Ghost Pepper is an ancient Fire Pepper that grew in caves. It stole the souls of beings lost in the depths. It can be turned into ingots to craft powerful tools."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["thefoodrealm:textures/gui/patchouli/ghost_pepper_ingot.png"],
+      "title": "Ghost Pepper Ingot"
+    }
+  ]
+}

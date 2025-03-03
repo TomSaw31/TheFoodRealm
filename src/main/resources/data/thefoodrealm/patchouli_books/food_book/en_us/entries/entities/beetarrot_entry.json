@@ -1,0 +1,17 @@
+{
+  "name": "Beetarrot Entry",
+  "icon": "thefoodrealm:beetarrot_spawn_egg",
+  "category": "thefoodrealm:creature_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "This beetle prefers darkness. It does not hesitate to attack by spinning its horn to intimidate its opponents. They are not very dangerous alone but they can be a problem when they are in large numbers."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "thefoodrealm:beetarrot",
+      "scale": 0.7,
+      "name": "Beetarrot"
+      }
+  ]
+}

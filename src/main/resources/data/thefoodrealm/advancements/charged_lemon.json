@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "thefoodrealm:charged_lemon"
+    },
+    "title": "Lemon but cooler !",
+    "description": "...make energy",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "thefoodrealm:lemon",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "thefoodrealm:charged_lemon"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

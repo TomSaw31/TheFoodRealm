@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "thefoodrealm:block/fire_pepper_ore"
+  }
+}

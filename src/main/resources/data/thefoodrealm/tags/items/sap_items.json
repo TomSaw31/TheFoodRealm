@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "thefoodrealm:oak_sap",
+    "thefoodrealm:spruce_sap",
+    "thefoodrealm:mint_tree_sap",
+    "thefoodrealm:mangrove_sap",
+    "thefoodrealm:birch_sap",
+    "thefoodrealm:jungle_sap",
+    "thefoodrealm:acacia_sap",
+    "thefoodrealm:dark_oak_sap"
+  ]
+}

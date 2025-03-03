@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " P ",
+    "PFP",
+    " P "
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "F": {
+      "item": "thefoodrealm:fire_pepper"
+    }
+  },
+  "result": {
+    "item": "thefoodrealm:ghost_pepper"
+  }
+}

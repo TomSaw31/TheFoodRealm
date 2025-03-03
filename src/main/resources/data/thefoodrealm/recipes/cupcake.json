@@ -1,0 +1,24 @@
+{
+  "type": "thefoodrealm:cooking_pot",
+  "size": 5,
+  "ingredients": [
+    {
+      "item": "thefoodrealm:milk_jar"
+    },
+    {
+      "item": "thefoodrealm:butter"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "thefoodrealm:vanilla"
+    },
+    {
+      "item": "thefoodrealm:strawberry"
+    }
+  ],
+  "output": {
+    "item": "thefoodrealm:cupcake"
+  }
+}

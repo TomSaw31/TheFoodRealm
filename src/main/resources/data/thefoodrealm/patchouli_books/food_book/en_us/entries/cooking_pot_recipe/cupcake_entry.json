@@ -1,0 +1,19 @@
+{
+  "name": "Cupcake Entry",
+  "icon": "thefoodrealm:cupcake",
+  "category": "thefoodrealm:cooking_pot_category",
+  "advancement": "thefoodrealm:cooking_pot",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "thefoodrealm:cupcake",
+      "title": "Cupcake",
+      "text": "A delicious cupcake made with strawberries."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["thefoodrealm:textures/gui/patchouli/cupcake.png"],
+      "title": "Cupcake"
+    }
+  ]
+}

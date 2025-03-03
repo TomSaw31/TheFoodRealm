@@ -1,0 +1,37 @@
+{
+  "name": "Cooking Pot Entry",
+  "icon": "thefoodrealm:cooking_pot",
+  "category": "thefoodrealm:block_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "thefoodrealm:cooking_pot",
+      "title": "Cooking Pot",
+      "link_recipe": true,
+      "text": "The cooking pot is a very useful block that lets you cook complex dishes with various effects. (See Cooking Pot Category). This block needs to be above a heat source."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:cooking_pot"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "Cooking Pot",
+      "multiblock": {
+        "pattern": [
+          [
+            "C"
+          ],
+          [
+            "0"
+          ]
+        ],
+        "mapping": {
+          "C": "thefoodrealm:cooking_pot",
+          "0": "minecraft:campfire"
+        },
+        "symmetrical": true
+      }
+    }
+  ]
+}

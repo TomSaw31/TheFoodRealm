@@ -1,0 +1,19 @@
+{
+  "name": "Putrefied Strike Entry",
+  "icon": "minecraft:enchanted_book",
+  "category": "thefoodrealm:enchantment_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:enchanted_book",
+      "title": "Putrefied Strike",
+      "link_recipe": true,
+      "text": "This powerful and rare enchantment rots the food carried by the target. However this enchantment will heal enemies who are already dead."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["thefoodrealm:textures/gui/patchouli/putrefied_strike_entry.png"],
+      "title": "Fruit"
+    }
+  ]
+}

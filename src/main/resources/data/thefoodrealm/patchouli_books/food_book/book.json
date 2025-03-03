@@ -1,0 +1,6 @@
+{
+  "name": "The Food Book",
+  "landing_text": "This book will explain you the basics of the Food Realm",
+  "version": 1,
+  "model": "thefoodrealm:food_book"
+}

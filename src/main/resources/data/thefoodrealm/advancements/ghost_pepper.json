@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "thefoodrealm:ghost_pepper"
+    },
+    "title": "Spectral Pepper",
+    "description": "A fire pepper but spicier... and infused with souls from the depths",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "thefoodrealm:fire_pepper",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "thefoodrealm:ghost_pepper"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

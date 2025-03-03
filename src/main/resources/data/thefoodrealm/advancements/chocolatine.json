@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "thefoodrealm:chocolatine"
+    },
+    "title": "Chocolatine Supremacy",
+    "description": "Chocolatine, not Pain au Chocolat",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "thefoodrealm:thefoodrealm",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "thefoodrealm:chocolatine"
+            ]
+          }
+        ]
+      }
+    }
+  }
+  }

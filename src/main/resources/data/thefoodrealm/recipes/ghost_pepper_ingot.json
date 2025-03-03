@@ -1,0 +1,21 @@
+{
+  "type": "thefoodrealm:cooking_pot",
+  "size": 4,
+  "ingredients": [
+    {
+      "item": "minecraft:blue_ice"
+    },
+    {
+      "item": "thefoodrealm:blueberries"
+    },
+    {
+      "item": "thefoodrealm:blackberries"
+    },
+    {
+      "item": "thefoodrealm:ghost_pepper"
+    }
+  ],
+  "output": {
+    "item": "thefoodrealm:ghost_pepper_ingot"
+  }
+}

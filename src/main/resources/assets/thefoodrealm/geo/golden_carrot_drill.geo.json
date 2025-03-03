@@ -1,0 +1,44 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "drill",
+					"pivot": [0, 5, -7],
+					"cubes": [
+						{"origin": [-4, 1, -11], "size": [8, 8, 4], "uv": [0, 17]},
+						{"origin": [-1, 4, -18], "size": [2, 2, 2], "uv": [0, 0]},
+						{"origin": [-2, 3, -16], "size": [4, 4, 2], "uv": [0, 29]},
+						{"origin": [-3, 2, -14], "size": [6, 6, 3], "uv": [25, 0]}
+					]
+				},
+				{
+					"name": "drill_block",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-1, 8.5, -2], "size": [2, 1, 2], "uv": [0, 4]},
+						{"origin": [4, 4, -4], "size": [1, 2, 2], "uv": [10, 34]},
+						{"origin": [-4.5, 0.5, 4], "size": [9, 9, 2], "uv": [22, 28]},
+						{"origin": [-2.5, 5.5, 7], "size": [5, 2, 1], "uv": [34, 12]},
+						{"origin": [-3.5, 5.5, 6], "size": [1, 2, 2], "uv": [6, 36]},
+						{"origin": [2.5, 5.5, 6], "size": [1, 2, 2], "uv": [0, 35]},
+						{"origin": [-4.5, 0.5, -7], "size": [9, 9, 2], "uv": [24, 17]},
+						{"origin": [-3.5, 8.5, -6], "size": [1, 3, 2], "uv": [16, 32]},
+						{"origin": [2.5, 8.5, -6], "size": [1, 3, 2], "uv": [12, 29]},
+						{"origin": [-2.5, 10.5, -6], "size": [5, 1, 2], "uv": [34, 9]},
+						{"origin": [-4, 1, -5], "size": [8, 8, 9], "uv": [0, 0]}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "thefoodrealm:cooking_pot",
+  "size": 5,
+  "ingredients": [
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "thefoodrealm:blueberries"
+    },
+    {
+      "item": "thefoodrealm:blackberries"
+    },
+    {
+      "item": "minecraft:glow_berries"
+    }
+  ],
+  "output": {
+    "item": "thefoodrealm:berry_skewer"
+  }
+}

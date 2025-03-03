@@ -1,0 +1,23 @@
+{
+  "name": "Caramel tools Entry",
+  "icon": "thefoodrealm:caramel_sword",
+  "category": "thefoodrealm:tool_category",
+  "advancement": "thefoodrealm:caramel",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:caramel_sword",
+      "recipe2": "thefoodrealm:caramel_pickaxe"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:caramel_axe",
+      "recipe2": "thefoodrealm:caramel_shovel"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:caramel_hoe",
+      "recipe2": "thefoodrealm:caramel_apple"
+    }
+  ]
+}

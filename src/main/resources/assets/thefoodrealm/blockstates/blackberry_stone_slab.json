@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=top": {
+      "model": "thefoodrealm:block/blackberry_stone_slab_top"
+    },
+    "type=bottom": {
+      "model": "thefoodrealm:block/blackberry_stone_slab"
+    },
+    "type=double": {
+      "model": "thefoodrealm:block/blackberry_stone"
+    }
+  }
+}

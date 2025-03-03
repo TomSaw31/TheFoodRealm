@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "thefoodrealm:block/carrot_pressure_plate"
+    },
+    "powered=true": {
+      "model": "thefoodrealm:block/carrot_pressure_plate_down"
+    }
+  }
+}

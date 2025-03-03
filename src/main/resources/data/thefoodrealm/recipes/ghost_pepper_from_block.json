@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "thefoodrealm:ghost_pepper_block"
+    }
+  ],
+  "result": {
+    "item": "thefoodrealm:ghost_pepper_ingot",
+    "count": 9
+  }
+}

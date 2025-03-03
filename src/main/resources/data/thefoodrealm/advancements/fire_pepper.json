@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "thefoodrealm:fire_pepper"
+    },
+    "title": "A Red Hot Chili Pepper",
+    "description": "Give it away under the bridge",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "thefoodrealm:thefoodrealm",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "thefoodrealm:fire_pepper"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

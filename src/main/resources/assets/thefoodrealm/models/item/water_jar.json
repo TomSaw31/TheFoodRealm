@@ -1,0 +1,16 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "thefoodrealm:item/water_jar_0"
+  },
+  "overrides": [
+    { "predicate": { "damaged": 0, "damage": 0.00}, "model": "thefoodrealm:item/water_jar_0"},
+    { "predicate": { "damaged": 0, "damage": 0.125}, "model": "thefoodrealm:item/water_jar_1"},
+    { "predicate": { "damaged": 0, "damage": 0.250}, "model": "thefoodrealm:item/water_jar_2"},
+    { "predicate": { "damaged": 0, "damage": 0.375}, "model": "thefoodrealm:item/water_jar_3"},
+    { "predicate": { "damaged": 0, "damage": 0.500}, "model": "thefoodrealm:item/water_jar_4"},
+    { "predicate": { "damaged": 0, "damage": 0.625}, "model": "thefoodrealm:item/water_jar_5"},
+    { "predicate": { "damaged": 0, "damage": 0.750}, "model": "thefoodrealm:item/water_jar_6"},
+    { "predicate": { "damaged": 0, "damage": 0.875}, "model": "thefoodrealm:item/water_jar_7"}
+  ]
+}

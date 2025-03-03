@@ -1,0 +1,19 @@
+{
+  "name": "Pancake Block Entry",
+  "icon": "thefoodrealm:pancake_block",
+  "category": "thefoodrealm:cooking_pot_category",
+  "advancement": "thefoodrealm:cooking_pot",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "thefoodrealm:pancake_block",
+      "title": "Pancake Block",
+      "text": "A giant cube made of pancake. What can be better ?"
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["thefoodrealm:textures/gui/patchouli/pancake_block.png"],
+      "title": "Pancake Block"
+    }
+  ]
+}

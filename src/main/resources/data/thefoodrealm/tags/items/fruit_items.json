@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:apple",
+    "minecraft:sweet_berries",
+    "minecraft:melon_slice",
+    "thefoodrealm:fig",
+    "thefoodrealm:pineapple",
+    "thefoodrealm:pear",
+    "thefoodrealm:kiwi",
+    "thefoodrealm:cherries",
+    "thefoodrealm:orange",
+    "thefoodrealm:lemon",
+    "thefoodrealm:raspberry",
+    "thefoodrealm:strawberry",
+    "thefoodrealm:blackberries",
+    "thefoodrealm:blueberries",
+    "thefoodrealm:mango",
+    "thefoodrealm:grapes"
+  ]
+}

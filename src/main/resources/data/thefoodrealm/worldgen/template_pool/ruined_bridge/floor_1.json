@@ -1,0 +1,18 @@
+{
+  // More info on template pools can be found here: https://minecraft.gamepedia.com/Custom_world_generation#JSON_format_8
+  // Yes, worldgen json files can have comments. Minecraft does "lenient" parsing of these json files.
+
+  "name": "thefoodrealm:ruined_bridge/floor_1",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 10,
+      "element": {
+        "location": "thefoodrealm:ruined_bridge_tower_1",
+        "processors": "thefoodrealm:randomize_ruined_bridge_interior",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "variants": {
+    "facing=north,color=0": { "model": "thefoodrealm:block/choco_chip_block_brown" },
+    "facing=east,color=0": { "model": "thefoodrealm:block/choco_chip_block_brown", "y": 90 },
+    "facing=south,color=0": { "model": "thefoodrealm:block/choco_chip_block_brown", "y": 180 },
+    "facing=west,color=0": { "model": "thefoodrealm:block/choco_chip_block_brown", "y": 270 },
+
+    "facing=north,color=1": { "model": "thefoodrealm:block/choco_chip_block_orange" },
+    "facing=east,color=1": { "model": "thefoodrealm:block/choco_chip_block_orange", "y": 90 },
+    "facing=south,color=1": { "model": "thefoodrealm:block/choco_chip_block_orange", "y": 180 },
+    "facing=west,color=1": { "model": "thefoodrealm:block/choco_chip_block_orange", "y": 270 },
+
+    "facing=north,color=2": { "model": "thefoodrealm:block/choco_chip_block_magenta" },
+    "facing=east,color=2": { "model": "thefoodrealm:block/choco_chip_block_magenta", "y": 90 },
+    "facing=south,color=2": { "model": "thefoodrealm:block/choco_chip_block_magenta", "y": 180 },
+    "facing=west,color=2": { "model": "thefoodrealm:block/choco_chip_block_magenta", "y": 270 },
+
+    "facing=north,color=3": { "model": "thefoodrealm:block/choco_chip_block_light_blue" },
+    "facing=east,color=3": { "model": "thefoodrealm:block/choco_chip_block_light_blue", "y": 90 },
+    "facing=south,color=3": { "model": "thefoodrealm:block/choco_chip_block_light_blue", "y": 180 },
+    "facing=west,color=3": { "model": "thefoodrealm:block/choco_chip_block_light_blue", "y": 270 },
+
+    "facing=north,color=4": { "model": "thefoodrealm:block/choco_chip_block_yellow" },
+    "facing=east,color=4": { "model": "thefoodrealm:block/choco_chip_block_yellow", "y": 90 },
+    "facing=south,color=4": { "model": "thefoodrealm:block/choco_chip_block_yellow", "y": 180 },
+    "facing=west,color=4": { "model": "thefoodrealm:block/choco_chip_block_yellow", "y": 270 },
+
+    "facing=north,color=5": { "model": "thefoodrealm:block/choco_chip_block_lime" },
+    "facing=east,color=5": { "model": "thefoodrealm:block/choco_chip_block_lime", "y": 90 },
+    "facing=south,color=5": { "model": "thefoodrealm:block/choco_chip_block_lime", "y": 180 },
+    "facing=west,color=5": { "model": "thefoodrealm:block/choco_chip_block_lime", "y": 270 },
+
+    "facing=north,color=6": { "model": "thefoodrealm:block/choco_chip_block_pink" },
+    "facing=east,color=6": { "model": "thefoodrealm:block/choco_chip_block_pink", "y": 90 },
+    "facing=south,color=6": { "model": "thefoodrealm:block/choco_chip_block_pink", "y": 180 },
+    "facing=west,color=6": { "model": "thefoodrealm:block/choco_chip_block_pink", "y": 270 },
+
+    "facing=north,color=7": { "model": "thefoodrealm:block/choco_chip_block_gray" },
+    "facing=east,color=7": { "model": "thefoodrealm:block/choco_chip_block_gray", "y": 90 },
+    "facing=south,color=7": { "model": "thefoodrealm:block/choco_chip_block_gray", "y": 180 },
+    "facing=west,color=7": { "model": "thefoodrealm:block/choco_chip_block_gray", "y": 270 },
+
+    "facing=north,color=8": { "model": "thefoodrealm:block/choco_chip_block_light_gray" },
+    "facing=east,color=8": { "model": "thefoodrealm:block/choco_chip_block_light_gray", "y": 90 },
+    "facing=south,color=8": { "model": "thefoodrealm:block/choco_chip_block_light_gray", "y": 180 },
+    "facing=west,color=8": { "model": "thefoodrealm:block/choco_chip_block_light_gray", "y": 270 },
+
+    "facing=north,color=9": { "model": "thefoodrealm:block/choco_chip_block_cyan" },
+    "facing=east,color=9": { "model": "thefoodrealm:block/choco_chip_block_cyan", "y": 90 },
+    "facing=south,color=9": { "model": "thefoodrealm:block/choco_chip_block_cyan", "y": 180 },
+    "facing=west,color=9": { "model": "thefoodrealm:block/choco_chip_block_cyan", "y": 270 },
+
+    "facing=north,color=10": { "model": "thefoodrealm:block/choco_chip_block_purple" },
+    "facing=east,color=10": { "model": "thefoodrealm:block/choco_chip_block_purple", "y": 90 },
+    "facing=south,color=10": { "model": "thefoodrealm:block/choco_chip_block_purple", "y": 180 },
+    "facing=west,color=10": { "model": "thefoodrealm:block/choco_chip_block_purple", "y": 270 },
+
+    "facing=north,color=11": { "model": "thefoodrealm:block/choco_chip_block_blue" },
+    "facing=east,color=11": { "model": "thefoodrealm:block/choco_chip_block_blue", "y": 90 },
+    "facing=south,color=11": { "model": "thefoodrealm:block/choco_chip_block_blue", "y": 180 },
+    "facing=west,color=11": { "model": "thefoodrealm:block/choco_chip_block_blue", "y": 270 },
+
+    "facing=north,color=12": { "model": "thefoodrealm:block/choco_chip_block_white" },
+    "facing=east,color=12": { "model": "thefoodrealm:block/choco_chip_block_white", "y": 90 },
+    "facing=south,color=12": { "model": "thefoodrealm:block/choco_chip_block_white", "y": 180 },
+    "facing=west,color=12": { "model": "thefoodrealm:block/choco_chip_block_white", "y": 270 },
+
+    "facing=north,color=13": { "model": "thefoodrealm:block/choco_chip_block_green" },
+    "facing=east,color=13": { "model": "thefoodrealm:block/choco_chip_block_green", "y": 90 },
+    "facing=south,color=13": { "model": "thefoodrealm:block/choco_chip_block_green", "y": 180 },
+    "facing=west,color=13": { "model": "thefoodrealm:block/choco_chip_block_green", "y": 270 },
+
+    "facing=north,color=14": { "model": "thefoodrealm:block/choco_chip_block_red" },
+    "facing=east,color=14": { "model": "thefoodrealm:block/choco_chip_block_red", "y": 90 },
+    "facing=south,color=14": { "model": "thefoodrealm:block/choco_chip_block_red", "y": 180 },
+    "facing=west,color=14": { "model": "thefoodrealm:block/choco_chip_block_red", "y": 270 },
+
+    "facing=north,color=15": { "model": "thefoodrealm:block/choco_chip_block_black" },
+    "facing=east,color=15": { "model": "thefoodrealm:block/choco_chip_block_black", "y": 90 },
+    "facing=south,color=15": { "model": "thefoodrealm:block/choco_chip_block_black", "y": 180 },
+    "facing=west,color=15": { "model": "thefoodrealm:block/choco_chip_block_black", "y": 270 }
+  }
+}

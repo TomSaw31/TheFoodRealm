@@ -1,0 +1,17 @@
+{
+  "name": "Grape Dragon Entry",
+  "icon": "thefoodrealm:grape_dragon_spawn_egg",
+  "category": "thefoodrealm:creature_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "This imposing dragon is very aggressive, it attacks day and night but prefers attacking at night to use its dark colors as camouflage. Inexperienced explorers should avoid it."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "thefoodrealm:grape_dragon",
+      "scale": 0.7,
+      "name": "Grape Dragon"
+      }
+  ]
+}

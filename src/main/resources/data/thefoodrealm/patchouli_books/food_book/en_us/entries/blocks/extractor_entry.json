@@ -1,0 +1,33 @@
+{
+  "name": "Extractor Entry",
+  "icon": "thefoodrealm:extractor",
+  "category": "thefoodrealm:block_category",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:extractor",
+      "text": "The extractor makes it possible to extract sap from logs and juice from fruit blocks."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "Extractor",
+      "multiblock": {
+        "pattern": [
+          [
+            "O",
+            "E"
+          ],
+          [
+            "0",
+            " "
+          ]
+        ],
+        "mapping": {
+          "E": "thefoodrealm:extractor[facing=east]",
+          "O": "minecraft:oak_log"
+        },
+        "symmetrical": true
+      }
+    }
+  ]
+}

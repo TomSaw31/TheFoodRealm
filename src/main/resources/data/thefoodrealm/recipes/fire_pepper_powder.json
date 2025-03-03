@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "thefoodrealm:fire_pepper"
+    }
+  ],
+  "result": {
+    "item": "thefoodrealm:fire_pepper_powder",
+    "count": 2
+  }
+}

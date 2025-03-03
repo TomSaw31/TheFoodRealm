@@ -1,0 +1,19 @@
+{
+  "name": "Apple Pie Entry",
+  "icon": "thefoodrealm:apple_pie",
+  "category": "thefoodrealm:cooking_pot_category",
+  "advancement": "thefoodrealm:cooking_pot",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "thefoodrealm:apple_pie",
+      "title": "Apple Pie",
+      "text": "A delicious apple pie. It looks delicious but it will never be as good as one made by your grandmother."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["thefoodrealm:textures/gui/patchouli/apple_pie.png"],
+      "title": "Apple Pie"
+    }
+  ]
+}

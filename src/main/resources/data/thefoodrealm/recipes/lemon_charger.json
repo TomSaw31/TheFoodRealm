@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "L L",
+    "LCL",
+    "BBB"
+  ],
+  "key": {
+    "C": {
+      "item": "thefoodrealm:lemon"
+    },
+    "L": {
+      "item": "minecraft:lightning_rod"
+    },
+    "B": {
+      "item": "thefoodrealm:blueberry_stone_slab"
+    }
+  },
+  "result": {
+    "item": "thefoodrealm:lemon_charger"
+  }
+}

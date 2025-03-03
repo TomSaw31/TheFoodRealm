@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "thefoodrealm:item/dark_choco_axe"
+  }
+}

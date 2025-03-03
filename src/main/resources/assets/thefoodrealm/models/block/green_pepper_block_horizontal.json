@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "thefoodrealm:block/green_pepper_block_top",
+    "side": "thefoodrealm:block/green_pepper_block"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BS",
+    "SB"
+  ],
+  "key": {
+    "B": {
+      "item": "thefoodrealm:blackberries"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "thefoodrealm:blackberry_stone",
+    "count": 2
+  }
+}

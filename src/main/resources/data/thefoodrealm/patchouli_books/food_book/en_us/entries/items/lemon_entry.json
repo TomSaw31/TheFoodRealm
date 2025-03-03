@@ -1,0 +1,20 @@
+{
+  "name": "Lemon Entry",
+  "icon": "thefoodrealm:lemon",
+  "category": "thefoodrealm:item_category",
+  "advancement": "thefoodrealm:lemon",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "thefoodrealm:charged_lemon",
+      "title": "Lemon",
+      "link_recipe": true,
+      "text": "Lemons are fruits that can store electricity like natural batteries because of the citric acid they contain. To charge the lemons, you will need the Lemon Charger. When a lemon contains energy, it turns into a Charged Lemon"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:lemon_charger",
+      "text": "The Lemon Charger can store lighting electricity in lemons. To activate this device you will have to wait for a storm and put a lemon inside it and you will get a Charged Lemon."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "thefoodrealm:choco_ingot"
+    }
+  ],
+  "result": {
+    "item": "thefoodrealm:choco_chips",
+    "count": 9
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "thefoodrealm:cooking_pot",
+  "size": 2,
+  "ingredients": [
+    {
+      "item": "thefoodrealm:milk_jar"
+    },
+    {
+      "item": "thefoodrealm:salt"
+    }
+  ],
+  "output": {
+    "item": "thefoodrealm:cheese"
+  }
+}

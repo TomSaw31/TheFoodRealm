@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "axis=z": { "model": "thefoodrealm:block/food_portal_ew"},
+    "axis=x": { "model": "thefoodrealm:block/food_portal_ns"}
+  }
+}

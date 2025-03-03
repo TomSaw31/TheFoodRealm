@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "thefoodrealm:mint_tree_log"
+    }
+  ],
+  "result": {
+    "item": "thefoodrealm:mint_tree_planks",
+    "count": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Jar Entry",
+  "icon": "thefoodrealm:water_jar",
+  "category": "thefoodrealm:item_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "thefoodrealm:empty_jar",
+      "title": "Jar",
+      "link_recipe": true,
+      "text": "Jar can be used to simplify crafting by being usable 8 times before being empty."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:empty_jar",
+      "recipe2": "thefoodrealm:water_jar"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:milk_jar"
+    }
+  ]
+}

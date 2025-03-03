@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "thefoodrealm:flour"
+    },
+    {
+      "item": "thefoodrealm:salt"
+    },
+    {
+      "item": "thefoodrealm:water_jar"
+    }
+  ],
+  "result": {
+    "item": "thefoodrealm:dough"
+  }
+}

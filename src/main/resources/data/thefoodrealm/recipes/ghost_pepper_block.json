@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "thefoodrealm:ghost_pepper_ingot"
+    }
+  },
+  "result": {
+    "item": "thefoodrealm:ghost_pepper_block"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "thefoodrealm:freezer",
+  "ingredients": [
+    {
+      "item": "thefoodrealm:choco_ingot"
+    }
+  ],
+  "output": {
+    "item": "thefoodrealm:choco_ice_cream"
+  }
+}

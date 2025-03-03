@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "thefoodrealm:caramel_ingot"
+    },
+    "title": "Smooth Caramel",
+    "description": "You've been hit by\nYou've been hit by\na...",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "thefoodrealm:thefoodrealm",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "thefoodrealm:caramel_ingot"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

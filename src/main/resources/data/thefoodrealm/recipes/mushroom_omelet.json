@@ -1,0 +1,27 @@
+{
+  "type": "thefoodrealm:cooking_pot",
+  "size": 6,
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:red_mushroom"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "item": "thefoodrealm:salt"
+    },
+    {
+      "item": "thefoodrealm:butter"
+    }
+  ],
+  "output": {
+    "item": "thefoodrealm:mushroom_omelet"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Mint Tree Entry",
+  "icon": "thefoodrealm:mint_tree_log",
+  "category": "thefoodrealm:block_category",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:mint_tree_sapling",
+      "text": "This wood produces a good smell of mint and can be used to create wooden tools as well as decorations"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:mint_tree_planks",
+      "recipe2": "thefoodrealm:mint_tree_wood"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:mint_tree_stairs",
+      "recipe2": "thefoodrealm:mint_tree_slab"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:mint_tree_fence_gate",
+      "recipe2": "thefoodrealm:mint_tree_fence"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:mint_tree_door",
+      "recipe2": "thefoodrealm:mint_tree_trapdoor"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:mint_tree_button",
+      "recipe2": "thefoodrealm:mint_tree_pressure_plate"
+    }
+  ]
+}

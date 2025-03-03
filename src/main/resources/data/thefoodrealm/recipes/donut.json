@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SDS",
+    "DPD",
+    "SDS"
+  ],
+  "key": {
+    "D": {
+      "item": "thefoodrealm:dough"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "P": {
+      "item": "minecraft:magenta_dye"
+    }
+  },
+  "result": {
+    "item": "thefoodrealm:donut"
+  }
+}

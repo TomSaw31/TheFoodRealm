@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "thefoodrealm:block/pancake_block_bottom",
+    "side": "thefoodrealm:block/pancake_block",
+    "top": "thefoodrealm:block/pancake_block_top"
+  }
+}

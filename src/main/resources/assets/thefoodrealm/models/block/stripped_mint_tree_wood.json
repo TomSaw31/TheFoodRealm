@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "thefoodrealm:block/stripped_mint_tree_log",
+    "side": "thefoodrealm:block/stripped_mint_tree_log"
+  }
+}

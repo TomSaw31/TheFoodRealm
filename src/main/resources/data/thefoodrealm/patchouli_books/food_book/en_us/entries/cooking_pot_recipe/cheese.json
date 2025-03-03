@@ -1,0 +1,19 @@
+{
+  "name": "Cheese Entry",
+  "icon": "thefoodrealm:cheese",
+  "category": "thefoodrealm:cooking_pot_category",
+  "advancement": "thefoodrealm:cooking_pot",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "thefoodrealm:cheese",
+      "title": "Cheese",
+      "text": "Cheese is easy to make and can go with any dish."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["thefoodrealm:textures/gui/patchouli/cheese.png"],
+      "title": "Cheese"
+    }
+  ]
+}

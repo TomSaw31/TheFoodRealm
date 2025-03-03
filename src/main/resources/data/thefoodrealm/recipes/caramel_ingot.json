@@ -1,0 +1,18 @@
+{
+  "type": "thefoodrealm:cooking_pot",
+  "size": 3,
+  "ingredients": [
+    {
+      "item": "thefoodrealm:butter"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "thefoodrealm:salt"
+    }
+  ],
+  "output": {
+    "item": "thefoodrealm:caramel_ingot"
+  }
+}

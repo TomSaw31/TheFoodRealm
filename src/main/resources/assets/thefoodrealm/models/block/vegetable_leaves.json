@@ -1,0 +1,7 @@
+{
+  "parent": "block/leaves",
+  "textures": {
+    "all": "thefoodrealm:block/vegetable_leaves"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Choco Armor Entry",
+  "icon": "thefoodrealm:choco_chestplate",
+  "category": "thefoodrealm:armor_category",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:choco_helmet",
+      "recipe2": "thefoodrealm:choco_chestplate"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:choco_leggings",
+      "recipe2": "thefoodrealm:choco_boots"
+    }
+  ]
+}

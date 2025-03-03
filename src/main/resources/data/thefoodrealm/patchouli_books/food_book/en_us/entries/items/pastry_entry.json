@@ -1,0 +1,17 @@
+{
+  "name": "Pastry Entry",
+  "icon": "thefoodrealm:donut",
+  "category": "thefoodrealm:item_category",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:croissant",
+      "recipe2": "thefoodrealm:chocolatine"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:donut",
+      "recipe2": "thefoodrealm:fortune_cookie"
+    }
+  ]
+}

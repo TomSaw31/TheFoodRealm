@@ -1,0 +1,12 @@
+{
+  "type": "thefoodrealm:cooking_pot",
+  "size": 1,
+  "ingredients": [
+    {
+      "item": "thefoodrealm:water_jar"
+    }
+  ],
+  "output": {
+    "item": "thefoodrealm:salt"
+  }
+}

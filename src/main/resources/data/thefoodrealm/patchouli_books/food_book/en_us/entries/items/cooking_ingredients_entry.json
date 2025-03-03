@@ -1,0 +1,17 @@
+{
+  "name": "Cooking Ingredients Entry",
+  "icon": "thefoodrealm:dough",
+  "category": "thefoodrealm:item_category",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:flour",
+      "recipe2": "thefoodrealm:salt"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:dough",
+      "recipe2": "thefoodrealm:butter"
+    }
+  ]
+}

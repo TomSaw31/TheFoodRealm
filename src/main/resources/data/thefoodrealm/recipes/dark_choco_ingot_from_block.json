@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "thefoodrealm:dark_choco_block"
+    }
+  ],
+  "result": {
+    "item": "thefoodrealm:dark_choco_ingot",
+    "count": 9
+  }
+}

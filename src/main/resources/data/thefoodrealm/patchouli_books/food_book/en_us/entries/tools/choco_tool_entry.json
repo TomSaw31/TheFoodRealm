@@ -1,0 +1,21 @@
+{
+  "name": "Choco tools Entry",
+  "icon": "thefoodrealm:choco_sword",
+  "category": "thefoodrealm:tool_category",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:choco_sword",
+      "recipe2": "thefoodrealm:choco_pickaxe"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:choco_axe",
+      "recipe2": "thefoodrealm:choco_shovel"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:choco_hoe"
+    }
+  ]
+}

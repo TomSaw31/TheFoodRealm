@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "thefoodrealm:white_choco_ingot"
+    }
+  },
+  "result": {
+    "item": "thefoodrealm:white_choco_block"
+  }
+}

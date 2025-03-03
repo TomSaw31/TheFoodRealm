@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "thefoodrealm:choco_block",
+    "thefoodrealm:dark_choco_block",
+    "thefoodrealm:white_choco_block",
+    "thefoodrealm:candy_cane_block",
+    "thefoodrealm:pineapple_block",
+    "thefoodrealm:carrot_block",
+    "thefoodrealm:carrot_planks",
+    "thefoodrealm:strawberry_block"
+  ]
+}

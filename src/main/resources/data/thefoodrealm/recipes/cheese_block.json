@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CC ",
+    "CC ",
+    "   "
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:cheese"
+    }
+  },
+  "result": {
+    "item": "thefoodrealm:cheese_block"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "thefoodrealm:freezer",
+  "ingredients": [
+    {
+      "item": "thefoodrealm:mangrove_sap"
+    }
+  ],
+  "output": {
+    "item": "thefoodrealm:mangrove_sap_block"
+  }
+}

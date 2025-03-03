@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_single_face",
+  "ambientocclusion": false,
+  "textures": {
+    "texture": "thefoodrealm:block/carrot_block_inside"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "thefoodrealm:fire_pepper_ore",
+    "minecraft:fire",
+    "minecraft:magma_block",
+    "minecraft:campfire",
+    "minecraft:soul_campfire"
+  ]
+}

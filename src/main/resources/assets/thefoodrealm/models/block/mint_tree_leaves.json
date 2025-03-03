@@ -1,0 +1,7 @@
+{
+  "parent": "block/leaves",
+  "textures": {
+    "all": "thefoodrealm:block/mint_tree_leaves"
+  },
+  "render_type": "cutout"
+}

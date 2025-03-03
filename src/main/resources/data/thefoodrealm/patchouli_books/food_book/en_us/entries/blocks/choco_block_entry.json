@@ -1,0 +1,20 @@
+{
+  "name": "Choco Block Entry",
+  "icon": "thefoodrealm:choco_block",
+  "category": "thefoodrealm:block_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Choco Blocks are blocks made of chocolate. There are 3 versions of the block : the Choco Block, the White Choco Block and the Dark Choco Block."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:choco_block",
+      "recipe2": "thefoodrealm:dark_choco_block"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:white_choco_block"
+    }
+  ]
+}

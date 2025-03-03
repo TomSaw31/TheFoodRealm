@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CDC",
+    "CBC",
+    "CDC"
+  ],
+  "key": {
+    "C": {
+      "item": "thefoodrealm:choco_chips"
+    },
+    "B": {
+      "item": "thefoodrealm:butter"
+    },
+    "D": {
+      "item": "thefoodrealm:dough"
+    }
+  },
+  "result": {
+    "item": "thefoodrealm:chocolatine",
+    "count": 3
+  }
+}

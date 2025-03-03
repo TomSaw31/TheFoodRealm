@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "thefoodrealm:block/extractor" },
+    "facing=east": { "model": "thefoodrealm:block/extractor", "y": 90 },
+    "facing=south": { "model": "thefoodrealm:block/extractor", "y": 180 },
+    "facing=west": { "model": "thefoodrealm:block/extractor", "y": 270 }
+  }
+}

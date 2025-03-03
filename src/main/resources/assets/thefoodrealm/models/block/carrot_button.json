@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button",
+  "textures": {
+    "texture": "thefoodrealm:block/carrot_planks"
+  }
+}

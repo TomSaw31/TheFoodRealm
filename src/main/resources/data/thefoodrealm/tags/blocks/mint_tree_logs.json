@@ -1,0 +1,10 @@
+{
+  "replace": "false",
+  "values": [
+   "thefoodrealm:mint_tree_log",
+   "thefoodrealm:mint_tree_wood",
+   "thefoodrealm:stripped_mint_tree_wood",
+   "thefoodrealm:stripped_mint_tree_log"
+
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "thefoodrealm:freezer",
+  "ingredients": [
+    {
+      "item": "thefoodrealm:spruce_sap"
+    }
+  ],
+  "output": {
+    "item": "thefoodrealm:spruce_sap_block"
+  }
+}

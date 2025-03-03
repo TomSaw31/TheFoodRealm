@@ -1,0 +1,21 @@
+{
+  "name": "Dark Choco tools Entry",
+  "icon": "thefoodrealm:dark_choco_sword",
+  "category": "thefoodrealm:tool_category",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:dark_choco_sword",
+      "recipe2": "thefoodrealm:dark_choco_pickaxe"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:dark_choco_axe",
+      "recipe2": "thefoodrealm:dark_choco_shovel"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:dark_choco_hoe"
+    }
+  ]
+}

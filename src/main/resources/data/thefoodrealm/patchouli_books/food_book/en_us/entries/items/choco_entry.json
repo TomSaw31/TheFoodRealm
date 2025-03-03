@@ -1,0 +1,53 @@
+{
+  "name": "Choco Entry",
+  "icon": "thefoodrealm:choco_ingot",
+  "category": "thefoodrealm:item_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "thefoodrealm:choco_ingot",
+      "title": "Choco Ingot",
+      "link_recipe": true,
+      "text": "Choco ingots can be used to create tools, blocks or food. There are 3 types of ingots : basic choco ingots, dark choco ingots which are more solid and as effective as basic choco ingots and finally white choco ingots which are not very solid but which are more effective than basic ones. Ingots can be turn into choco chips."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:choco_ingot_from_cocoa",
+      "recipe2": "thefoodrealm:dark_choco_ingot_from_cocoa"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:white_choco_ingot_from_cocoa",
+      "recipe2": "thefoodrealm:choco_sword"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:dark_choco_pickaxe",
+      "recipe2": "thefoodrealm:white_choco_axe"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:choco_chips_from_ingot",
+      "recipe2": "thefoodrealm:choco_ingot"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:choco_block",
+      "recipe2": "thefoodrealm:choco_ingot_from_block"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:dark_choco_block",
+      "recipe2": "thefoodrealm:dark_choco_ingot_from_block"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:white_choco_block",
+      "recipe2": "thefoodrealm:white_choco_ingot_from_block"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:choco_horse_armor"
+    }
+  ]
+}

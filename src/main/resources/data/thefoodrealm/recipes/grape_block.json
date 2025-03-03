@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GG ",
+    "GG ",
+    "   "
+  ],
+  "key": {
+    "G": {
+      "item": "thefoodrealm:grapes"
+    }
+  },
+  "result": {
+    "item": "thefoodrealm:grape_block"
+  }
+}

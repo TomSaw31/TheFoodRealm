@@ -1,0 +1,34 @@
+
+{
+  "replace": false,
+  "values": [
+    "thefoodrealm:mint_tree_planks",
+    "thefoodrealm:mint_tree_log",
+    "thefoodrealm:stripped_mint_tree_log",
+    "thefoodrealm:stripped_mint_tree_wood",
+    "thefoodrealm:mint_tree_wood",
+    "thefoodrealm:mint_tree_sign",
+    "thefoodrealm:mint_tree_wall_sign",
+    "thefoodrealm:mint_tree_door",
+    "thefoodrealm:mint_tree_trapdoor",
+    "thefoodrealm:mint_tree_slab",
+    "thefoodrealm:mint_tree_stairs",
+    "thefoodrealm:mint_tree_button",
+    "thefoodrealm:mint_tree_pressure_plate",
+    "thefoodrealm:mint_tree_fence",
+    "thefoodrealm:mint_tree_fence_gate",
+    "thefoodrealm:carrot_block",
+    "thefoodrealm:carrot_sign",
+    "thefoodrealm:carrot_wall_sign",
+    "thefoodrealm:carrot_door",
+    "thefoodrealm:carrot_trapdoor",
+    "thefoodrealm:carrot_slab",
+    "thefoodrealm:carrot_stairs",
+    "thefoodrealm:carrot_button",
+    "thefoodrealm:carrot_pressure_plate",
+    "thefoodrealm:carrot_fence",
+    "thefoodrealm:carrot_fence_gate",
+    "thefoodrealm:carrot_planks",
+    "thefoodrealm:stripped_carrot_block"
+  ]
+}

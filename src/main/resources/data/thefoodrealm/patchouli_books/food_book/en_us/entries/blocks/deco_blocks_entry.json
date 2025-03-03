@@ -1,0 +1,11 @@
+{
+  "name": "Other Blocks Entry",
+  "icon": "thefoodrealm:candy_cane_block",
+  "category": "thefoodrealm:block_category",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:candy_cane_block"
+    }
+  ]
+}

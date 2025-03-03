@@ -1,0 +1,24 @@
+{
+  "type": "thefoodrealm:cooking_pot",
+  "size": 5,
+  "ingredients": [
+    {
+      "item": "thefoodrealm:dough"
+    },
+    {
+      "item": "thefoodrealm:butter"
+    },
+    {
+      "item": "thefoodrealm:flour"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "output": {
+    "item": "thefoodrealm:pancake_block"
+  }
+}

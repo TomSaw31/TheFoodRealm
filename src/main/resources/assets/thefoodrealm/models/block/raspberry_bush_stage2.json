@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "thefoodrealm:block/raspberry_bush_stage2"
+  },
+  "render_type": "cutout"
+}

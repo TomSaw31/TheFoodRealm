@@ -1,0 +1,11 @@
+{
+  "type": "thefoodrealm:freezer",
+  "ingredients": [
+    {
+      "item": "thefoodrealm:cherry"
+    }
+  ],
+  "output": {
+    "item": "thefoodrealm:cherry_ice_cream"
+  }
+}

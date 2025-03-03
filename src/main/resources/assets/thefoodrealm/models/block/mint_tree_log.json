@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "thefoodrealm:block/mint_tree_log_top",
+    "side": "thefoodrealm:block/mint_tree_log"
+  }
+}

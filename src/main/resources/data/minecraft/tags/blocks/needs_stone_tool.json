@@ -1,0 +1,10 @@
+{
+  "replace": "false",
+  "values": [
+    "thefoodrealm:choco_block",
+    "thefoodrealm:dark_choco_block",
+    "thefoodrealm:white_choco_block",
+    "thefoodrealm:fire_pepper_ore",
+    "thefoodrealm:caramel_block"
+  ]
+}

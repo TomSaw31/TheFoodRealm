@@ -1,0 +1,27 @@
+{
+  "name": "Food Block Entry",
+  "icon": "thefoodrealm:choco_block",
+  "category": "thefoodrealm:block_category",
+  "pages": [
+    {
+    "type": "patchouli:crafting",
+    "recipe": "thefoodrealm:choco_block",
+    "recipe2": "thefoodrealm:dark_choco_block"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:white_choco_block",
+      "recipe2": "thefoodrealm:ghost_pepper_block"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:caramel_block",
+      "recipe2": "thefoodrealm:grape_block"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "thefoodrealm:strawberry_block",
+      "recipe2": "thefoodrealm:pineapple_block"
+    }
+  ]
+}

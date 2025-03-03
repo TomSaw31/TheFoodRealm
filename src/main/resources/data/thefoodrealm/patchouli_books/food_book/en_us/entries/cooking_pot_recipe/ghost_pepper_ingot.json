@@ -1,0 +1,19 @@
+{
+  "name": "Ghost Pepper Ingot Entry",
+  "icon": "thefoodrealm:ghost_pepper_ingot",
+  "category": "thefoodrealm:cooking_pot_category",
+  "advancement": "thefoodrealm:ghost_pepper",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "thefoodrealm:ghost_pepper_ingot",
+      "title": "Ghost Pepper Ingot",
+      "text": "A tough frozen ingot that can be used to craft powerful tools."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["thefoodrealm:textures/gui/patchouli/ghost_pepper_ingot.png"],
+      "title": "Ghost Pepper Ingot"
+    }
+  ]
+}

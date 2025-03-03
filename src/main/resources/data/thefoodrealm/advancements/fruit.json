@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "thefoodrealm:orange"
+    },
+    "title": "Apples and Oranges",
+    "description": "Eating different fruits is good for your health",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "thefoodrealm:thefoodrealm",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "thefoodrealm:fruit_items"
+          }
+        ]
+      }
+    }
+  }
+}
